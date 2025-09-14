@@ -214,4 +214,10 @@ footer {
         margin: 15px 0;
         text-align: center;
     }
+    .hero {
+  background-size: cover;
+  background-position: center;
+  height: 70vh; /* shorter on small screens */
+}
+
 }
